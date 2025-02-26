@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ### Steps 
     git clone https://github.com/XpecterLy/task-manager-backend.git
-    cd dir task-manager-backend
+    cd task-manager-backend
     uvicorn main:app --host 0.0.0.0 --port [PORT]
 
 ## contact
