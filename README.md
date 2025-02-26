@@ -7,7 +7,7 @@
     - 👮Authentication and Authorization
     - 📱Task management
     
-## Tecnologías  
+## Technologies  
     - **Backend:** Python FastAPI
     - **data base:** MongoDB  
     - **Segurity:** JWT
